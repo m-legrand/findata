@@ -14,11 +14,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3  # Checks-out your repository under $GITHUB_WORKSPACE
-
-      - name: Run a one-line script
-        run: echo "Starting the TreasuryDirect scraping job."
-
-      - name: Run a multi-line script
-        run: |
-          curl 'https://www.treasurydirect.gov/TA_WS/securities/auctioned?format=json&type=Bond' -X GET | jq > US_Bond.json
-          
+      - name: Scrap US Bonds
+        run: curl 'https://www.treasurydirect.gov/TA_WS/securities/auctioned?format=json&type=Bond' | jq > US_Bond.json
+        
