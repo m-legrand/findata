@@ -15,7 +15,7 @@ jobs:
     - name: Fetch latest data
       run: |-
         curl 'https://www.treasurydirect.gov/TA_WS/securities/auctioned?format=json&type=Bond' \
-          -X POST --data-raw 'showFeatured=False' | jq > incidents-june-2023-format.json
+          -X POST --data-raw 'showFeatured=False' | jq > US_Bond.json
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
