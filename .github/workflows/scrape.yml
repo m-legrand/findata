@@ -18,6 +18,12 @@ jobs:
         run: curl 'https://www.treasurydirect.gov/TA_WS/securities/auctioned?format=json&type=Bond' | jq > US_Bond.json
       - name: Scrap US Notes
         run: curl 'https://www.treasurydirect.gov/TA_WS/securities/auctioned?format=json&type=Note' | jq > US_Note.json
+      - name: Scrap US Bills
+        run: curl 'https://www.treasurydirect.gov/TA_WS/securities/auctioned?format=json&type=Bill' | jq > US_Bill.json
+      - name: Scrap US FRNs
+        run: curl 'https://www.treasurydirect.gov/TA_WS/securities/auctioned?format=json&type=FRN' | jq > US_FRN.json
+      - name: Scrap US TIPS's
+        run: curl 'https://www.treasurydirect.gov/TA_WS/securities/auctioned?format=json&type=TIPS' | jq > US_TIPS.json
       - name: Commit and push if it changed
         run: |-
           git config user.name "Automated"
