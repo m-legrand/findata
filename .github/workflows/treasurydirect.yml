@@ -1,0 +1,24 @@
+name: CI
+
+on:
+  push:
+    branches: [ "main" ]
+  schedule:
+    - cron: '6,26,46 * * * *'
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3  # Checks-out your repository under $GITHUB_WORKSPACE
+
+      - name: Run a one-line script
+        run: echo "Starting the TreasuryDirect scraping job."
+
+      - name: Run a multi-line script
+        run: |
+          curl 'https://www.treasurydirect.gov/TA_WS/securities/auctioned?format=json&type=Bond' | jq > US_Bond.json
+          
