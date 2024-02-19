@@ -10,7 +10,7 @@ on:
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
-  scrape:
+  treasurydirect:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3  # Checks-out your repository under $GITHUB_WORKSPACE
@@ -20,5 +20,5 @@ jobs:
 
       - name: Run a multi-line script
         run: |
-          curl 'https://www.treasurydirect.gov/TA_WS/securities/auctioned?format=json&type=Bond' | jq > US_Bond.json
+          curl 'https://www.treasurydirect.gov/TA_WS/securities/auctioned?format=json&type=Bond' -X GET | jq > US_Bond.json
           
