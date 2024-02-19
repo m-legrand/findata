@@ -16,4 +16,5 @@ jobs:
       - uses: actions/checkout@v3  # Checks-out your repository under $GITHUB_WORKSPACE
       - name: Scrap US Bonds
         run: curl 'https://www.treasurydirect.gov/TA_WS/securities/auctioned?format=json&type=Bond' | jq > US_Bond.json
-        
+      - name: Scrap US Notes
+        run: curl 'https://www.treasurydirect.gov/TA_WS/securities/auctioned?format=json&type=Note' | jq > US_Note.json
