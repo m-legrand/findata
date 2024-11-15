@@ -117,7 +117,9 @@
     "xmlFilenameCompetitiveResults": "R_20241106_2.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "912834YC6",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810UD8",
@@ -237,7 +239,9 @@
     "xmlFilenameCompetitiveResults": "R_20241023_2.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810UC0",
@@ -357,7 +361,9 @@
     "xmlFilenameCompetitiveResults": "R_20241010_3.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810UD8",
@@ -477,7 +483,9 @@
     "xmlFilenameCompetitiveResults": "R_20240917_2.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810UC0",
@@ -597,7 +605,9 @@
     "xmlFilenameCompetitiveResults": "R_20240912_3.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810UD8",
@@ -717,7 +727,9 @@
     "xmlFilenameCompetitiveResults": "R_20240821_3.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810UC0",
@@ -837,7 +849,9 @@
     "xmlFilenameCompetitiveResults": "R_20240808_3.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "912834XW3",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810UB2",
@@ -957,7 +971,9 @@
     "xmlFilenameCompetitiveResults": "R_20240717_2.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810UA4",
@@ -1077,7 +1093,9 @@
     "xmlFilenameCompetitiveResults": "R_20240711_3.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810UB2",
@@ -1197,7 +1215,9 @@
     "xmlFilenameCompetitiveResults": "R_20240618_1.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810UA4",
@@ -1317,7 +1337,9 @@
     "xmlFilenameCompetitiveResults": "R_20240613_3.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810UB2",
@@ -1437,7 +1459,9 @@
     "xmlFilenameCompetitiveResults": "R_20240522_2.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810UA4",
@@ -1557,7 +1581,9 @@
     "xmlFilenameCompetitiveResults": "R_20240509_3.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "912834XP8",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810TZ1",
@@ -1677,7 +1703,9 @@
     "xmlFilenameCompetitiveResults": "R_20240417_2.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810TX6",
@@ -1797,7 +1825,9 @@
     "xmlFilenameCompetitiveResults": "R_20240411_3.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810TZ1",
@@ -1917,7 +1947,9 @@
     "xmlFilenameCompetitiveResults": "R_20240319_3.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810TX6",
@@ -2037,7 +2069,9 @@
     "xmlFilenameCompetitiveResults": "R_20240313_2.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810TZ1",
@@ -2157,7 +2191,9 @@
     "xmlFilenameCompetitiveResults": "R_20240221_3.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810TX6",
@@ -2277,7 +2313,9 @@
     "xmlFilenameCompetitiveResults": "R_20240208_3.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "912834K56",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810TW8",
@@ -2397,7 +2435,9 @@
     "xmlFilenameCompetitiveResults": "R_20240117_2.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810TV0",
@@ -2517,7 +2557,9 @@
     "xmlFilenameCompetitiveResults": "R_20240111_3.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810TW8",
@@ -2637,7 +2679,9 @@
     "xmlFilenameCompetitiveResults": "R_20231220_2.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810TV0",
@@ -2757,7 +2801,9 @@
     "xmlFilenameCompetitiveResults": "R_20231212_2.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810TW8",
@@ -2877,7 +2923,9 @@
     "xmlFilenameCompetitiveResults": "R_20231120_3.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810TV0",
@@ -2997,7 +3045,9 @@
     "xmlFilenameCompetitiveResults": "R_20231109_3.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "912834J66",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810TU2",
@@ -3117,7 +3167,9 @@
     "xmlFilenameCompetitiveResults": "R_20231018_2.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810TT5",
@@ -3237,7 +3289,9 @@
     "xmlFilenameCompetitiveResults": "R_20231012_3.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810TU2",
@@ -3357,7 +3411,9 @@
     "xmlFilenameCompetitiveResults": "R_20230919_2.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810TT5",
@@ -3477,7 +3533,9 @@
     "xmlFilenameCompetitiveResults": "R_20230913_2.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810TU2",
@@ -3597,7 +3655,9 @@
     "xmlFilenameCompetitiveResults": "R_20230823_3.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810TT5",
@@ -3717,7 +3777,9 @@
     "xmlFilenameCompetitiveResults": "R_20230810_3.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "912834H84",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810TS7",
@@ -3837,7 +3899,9 @@
     "xmlFilenameCompetitiveResults": "R_20230719_2.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810TR9",
@@ -3957,7 +4021,9 @@
     "xmlFilenameCompetitiveResults": "R_20230713_3.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810TS7",
@@ -4077,7 +4143,9 @@
     "xmlFilenameCompetitiveResults": "R_20230621_2.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810TR9",
@@ -4197,7 +4265,9 @@
     "xmlFilenameCompetitiveResults": "R_20230613_3.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810TS7",
@@ -4317,7 +4387,9 @@
     "xmlFilenameCompetitiveResults": "R_20230517_2.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810TR9",
@@ -4437,7 +4509,9 @@
     "xmlFilenameCompetitiveResults": "R_20230511_4.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "912834G93",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810TQ1",
@@ -4557,7 +4631,9 @@
     "xmlFilenameCompetitiveResults": "R_20230419_2.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810TN8",
@@ -4677,7 +4753,9 @@
     "xmlFilenameCompetitiveResults": "R_20230413_3.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810TQ1",
@@ -4797,7 +4875,9 @@
     "xmlFilenameCompetitiveResults": "R_20230321_2.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810TN8",
@@ -4917,7 +4997,9 @@
     "xmlFilenameCompetitiveResults": "R_20230309_3.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810TQ1",
@@ -5037,7 +5119,9 @@
     "xmlFilenameCompetitiveResults": "R_20230215_2.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810TN8",
@@ -5157,7 +5241,9 @@
     "xmlFilenameCompetitiveResults": "R_20230209_3.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "912834F94",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810TM0",
@@ -5277,7 +5363,9 @@
     "xmlFilenameCompetitiveResults": "R_20230118_2.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810TL2",
@@ -5397,7 +5485,9 @@
     "xmlFilenameCompetitiveResults": "R_20230112_4.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810TM0",
@@ -5517,7 +5607,9 @@
     "xmlFilenameCompetitiveResults": "R_20221221_2.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810TL2",
@@ -5637,7 +5729,9 @@
     "xmlFilenameCompetitiveResults": "R_20221213_1.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810TM0",
@@ -5757,7 +5851,9 @@
     "xmlFilenameCompetitiveResults": "R_20221116_2.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810TL2",
@@ -5877,7 +5973,9 @@
     "xmlFilenameCompetitiveResults": "R_20221110_3.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "912834F29",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810TK4",
@@ -5997,7 +6095,9 @@
     "xmlFilenameCompetitiveResults": "R_20221019_2.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810TJ7",
@@ -6117,7 +6217,9 @@
     "xmlFilenameCompetitiveResults": "R_20221013_3.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810TK4",
@@ -6237,7 +6339,9 @@
     "xmlFilenameCompetitiveResults": "R_20220920_1.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810TJ7",
@@ -6357,7 +6461,9 @@
     "xmlFilenameCompetitiveResults": "R_20220913_1.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810TK4",
@@ -6477,7 +6583,9 @@
     "xmlFilenameCompetitiveResults": "R_20220817_2.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810TJ7",
@@ -6597,7 +6705,9 @@
     "xmlFilenameCompetitiveResults": "R_20220811_3.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "912834D47",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810TH1",
@@ -6717,7 +6827,9 @@
     "xmlFilenameCompetitiveResults": "R_20220720_2.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810TG3",
@@ -6837,7 +6949,9 @@
     "xmlFilenameCompetitiveResults": "R_20220713_2.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810TH1",
@@ -6957,7 +7071,9 @@
     "xmlFilenameCompetitiveResults": "R_20220622_3.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810TG3",
@@ -7077,7 +7193,9 @@
     "xmlFilenameCompetitiveResults": "R_20220609_3.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810TH1",
@@ -7197,7 +7315,9 @@
     "xmlFilenameCompetitiveResults": "R_20220518_3.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810TG3",
@@ -7317,7 +7437,9 @@
     "xmlFilenameCompetitiveResults": "R_20220512_3.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "912834C55",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810TF5",
@@ -7437,7 +7559,9 @@
     "xmlFilenameCompetitiveResults": "R_20220420_2.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810TD0",
@@ -7557,7 +7681,9 @@
     "xmlFilenameCompetitiveResults": "R_20220413_2.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810TF5",
@@ -7677,7 +7803,9 @@
     "xmlFilenameCompetitiveResults": "R_20220323_3.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810TD0",
@@ -7797,7 +7925,9 @@
     "xmlFilenameCompetitiveResults": "R_20220310_3.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810TF5",
@@ -7917,7 +8047,9 @@
     "xmlFilenameCompetitiveResults": "R_20220216_2.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810TD0",
@@ -8037,7 +8169,9 @@
     "xmlFilenameCompetitiveResults": "R_20220210_3.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810TC2",
@@ -8157,7 +8291,9 @@
     "xmlFilenameCompetitiveResults": "R_20220119_2.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810TB4",
@@ -8277,7 +8413,9 @@
     "xmlFilenameCompetitiveResults": "R_20220113_3.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810TC2",
@@ -8397,7 +8535,9 @@
     "xmlFilenameCompetitiveResults": "R_20211221_1.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810TB4",
@@ -8517,7 +8657,9 @@
     "xmlFilenameCompetitiveResults": "R_20211209_3.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810TC2",
@@ -8637,7 +8779,9 @@
     "xmlFilenameCompetitiveResults": "R_20211202_9.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810TC2",
@@ -8757,7 +8901,9 @@
     "xmlFilenameCompetitiveResults": "R_20211117_3.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810TB4",
@@ -8877,7 +9023,9 @@
     "xmlFilenameCompetitiveResults": "R_20211110_4.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810TA6",
@@ -8997,7 +9145,9 @@
     "xmlFilenameCompetitiveResults": "R_20211020_3.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810SZ2",
@@ -9117,7 +9267,9 @@
     "xmlFilenameCompetitiveResults": "R_20211013_2.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810TA6",
@@ -9237,7 +9389,9 @@
     "xmlFilenameCompetitiveResults": "R_20210921_1.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810SZ2",
@@ -9357,7 +9511,9 @@
     "xmlFilenameCompetitiveResults": "R_20210909_3.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810TA6",
@@ -9477,7 +9633,9 @@
     "xmlFilenameCompetitiveResults": "R_20210818_2.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810SZ2",
@@ -9597,7 +9755,9 @@
     "xmlFilenameCompetitiveResults": "R_20210812_3.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810SY5",
@@ -9717,7 +9877,9 @@
     "xmlFilenameCompetitiveResults": "R_20210721_2.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810SX7",
@@ -9837,7 +9999,9 @@
     "xmlFilenameCompetitiveResults": "R_20210713_3.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810SY5",
@@ -9957,7 +10121,9 @@
     "xmlFilenameCompetitiveResults": "R_20210615_3.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810SX7",
@@ -10077,7 +10243,9 @@
     "xmlFilenameCompetitiveResults": "R_20210610_3.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810SY5",
@@ -10197,7 +10365,9 @@
     "xmlFilenameCompetitiveResults": "R_20210519_2.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810SX7",
@@ -10317,7 +10487,9 @@
     "xmlFilenameCompetitiveResults": "R_20210513_3.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810SW9",
@@ -10437,7 +10609,9 @@
     "xmlFilenameCompetitiveResults": "R_20210421_2.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810SU3",
@@ -10557,7 +10731,9 @@
     "xmlFilenameCompetitiveResults": "R_20210413_2.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810SW9",
@@ -10677,7 +10853,9 @@
     "xmlFilenameCompetitiveResults": "R_20210316_2.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810SU3",
@@ -10797,7 +10975,9 @@
     "xmlFilenameCompetitiveResults": "R_20210311_3.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810SW9",
@@ -10917,7 +11097,9 @@
     "xmlFilenameCompetitiveResults": "R_20210217_1.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810SU3",
@@ -11037,7 +11219,9 @@
     "xmlFilenameCompetitiveResults": "R_20210211_3.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810ST6",
@@ -11157,7 +11341,9 @@
     "xmlFilenameCompetitiveResults": "R_20210120_3.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810SS8",
@@ -11277,7 +11463,9 @@
     "xmlFilenameCompetitiveResults": "R_20210113_3.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810ST6",
@@ -11397,7 +11585,9 @@
     "xmlFilenameCompetitiveResults": "R_20201221_3.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810SS8",
@@ -11517,7 +11707,9 @@
     "xmlFilenameCompetitiveResults": "R_20201210_3.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810ST6",
@@ -11637,7 +11829,9 @@
     "xmlFilenameCompetitiveResults": "R_20201118_3.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810SS8",
@@ -11757,7 +11951,9 @@
     "xmlFilenameCompetitiveResults": "R_20201112_5.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810SQ2",
@@ -11877,7 +12073,9 @@
     "xmlFilenameCompetitiveResults": "R_20201021_3.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810SP4",
@@ -11997,7 +12195,9 @@
     "xmlFilenameCompetitiveResults": "R_20201008_3.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810SQ2",
@@ -12117,7 +12317,9 @@
     "xmlFilenameCompetitiveResults": "R_20200915_3.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810SP4",
@@ -12237,7 +12439,9 @@
     "xmlFilenameCompetitiveResults": "R_20200910_3.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810SQ2",
@@ -12357,7 +12561,9 @@
     "xmlFilenameCompetitiveResults": "R_20200819_3.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810SP4",
@@ -12477,7 +12683,9 @@
     "xmlFilenameCompetitiveResults": "R_20200813_3.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810SR0",
@@ -12597,7 +12805,9 @@
     "xmlFilenameCompetitiveResults": "R_20200722_3.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810SN9",
@@ -12717,7 +12927,9 @@
     "xmlFilenameCompetitiveResults": "R_20200709_3.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810SR0",
@@ -12837,7 +13049,9 @@
     "xmlFilenameCompetitiveResults": "R_20200617_3.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810SN9",
@@ -12957,7 +13171,9 @@
     "xmlFilenameCompetitiveResults": "R_20200611_3.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810SR0",
@@ -13077,7 +13293,9 @@
     "xmlFilenameCompetitiveResults": "R_20200520_3.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810SN9",
@@ -13197,7 +13415,9 @@
     "xmlFilenameCompetitiveResults": "R_20200513_3.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810SL3",
@@ -13317,7 +13537,9 @@
     "xmlFilenameCompetitiveResults": "R_20200408_4.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810SL3",
@@ -13437,7 +13659,9 @@
     "xmlFilenameCompetitiveResults": "R_20200312_3.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810SL3",
@@ -13557,7 +13781,9 @@
     "xmlFilenameCompetitiveResults": "R_20200213_3.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810SK5",
@@ -13677,7 +13903,9 @@
     "xmlFilenameCompetitiveResults": "R_20200109_3.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810SK5",
@@ -13797,7 +14025,9 @@
     "xmlFilenameCompetitiveResults": "R_20191212_3.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810SK5",
@@ -13917,7 +14147,9 @@
     "xmlFilenameCompetitiveResults": "R_20191107_3.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810SJ8",
@@ -14037,7 +14269,9 @@
     "xmlFilenameCompetitiveResults": "R_20191010_3.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810SJ8",
@@ -14157,7 +14391,9 @@
     "xmlFilenameCompetitiveResults": "R_20190912_3.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810SJ8",
@@ -14277,7 +14513,9 @@
     "xmlFilenameCompetitiveResults": "R_20190808_3.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810SH2",
@@ -14397,7 +14635,9 @@
     "xmlFilenameCompetitiveResults": "R_20190711_3.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810SH2",
@@ -14517,7 +14757,9 @@
     "xmlFilenameCompetitiveResults": "R_20190613_3.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810SH2",
@@ -14637,7 +14879,9 @@
     "xmlFilenameCompetitiveResults": "R_20190509_3.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810SF6",
@@ -14757,7 +15001,9 @@
     "xmlFilenameCompetitiveResults": "R_20190411_3.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810SF6",
@@ -14877,7 +15123,9 @@
     "xmlFilenameCompetitiveResults": "R_20190313_1.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810SF6",
@@ -14997,7 +15245,9 @@
     "xmlFilenameCompetitiveResults": "R_20190207_3.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810SE9",
@@ -15117,7 +15367,9 @@
     "xmlFilenameCompetitiveResults": "R_20190110_3.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810SE9",
@@ -15237,7 +15489,9 @@
     "xmlFilenameCompetitiveResults": "R_20181213_3.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810SE9",
@@ -15357,7 +15611,9 @@
     "xmlFilenameCompetitiveResults": "R_20181107_1.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810SD1",
@@ -15477,7 +15733,9 @@
     "xmlFilenameCompetitiveResults": "R_20181011_1.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810SD1",
@@ -15597,7 +15855,9 @@
     "xmlFilenameCompetitiveResults": "R_20180913_1.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810SD1",
@@ -15717,7 +15977,9 @@
     "xmlFilenameCompetitiveResults": "R_20180809_1.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810SC3",
@@ -15837,7 +16099,9 @@
     "xmlFilenameCompetitiveResults": "R_20180712_1.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810SC3",
@@ -15957,7 +16221,9 @@
     "xmlFilenameCompetitiveResults": "R_20180612_2.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810SC3",
@@ -16077,7 +16343,9 @@
     "xmlFilenameCompetitiveResults": "R_20180510_1.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810SA7",
@@ -16197,7 +16465,9 @@
     "xmlFilenameCompetitiveResults": "R_20180412_1.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810SA7",
@@ -16317,7 +16587,9 @@
     "xmlFilenameCompetitiveResults": "R_20180313_2.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810SA7",
@@ -16437,7 +16709,9 @@
     "xmlFilenameCompetitiveResults": "R_20180208_1.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810RZ3",
@@ -16557,7 +16831,9 @@
     "xmlFilenameCompetitiveResults": "R_20180111_1.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810RZ3",
@@ -16677,7 +16953,9 @@
     "xmlFilenameCompetitiveResults": "R_20171212_2.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810RZ3",
@@ -16797,7 +17075,9 @@
     "xmlFilenameCompetitiveResults": "R_20171109_1.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810RY6",
@@ -16917,7 +17197,9 @@
     "xmlFilenameCompetitiveResults": "R_20171012_1.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810RY6",
@@ -17037,7 +17319,9 @@
     "xmlFilenameCompetitiveResults": "R_20170913_1.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810RY6",
@@ -17157,7 +17441,9 @@
     "xmlFilenameCompetitiveResults": "R_20170810_1.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810RX8",
@@ -17277,7 +17563,9 @@
     "xmlFilenameCompetitiveResults": "R_20170713_1.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810RX8",
@@ -17397,7 +17685,9 @@
     "xmlFilenameCompetitiveResults": "R_20170613_2.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810RX8",
@@ -17517,7 +17807,9 @@
     "xmlFilenameCompetitiveResults": "R_20170511_1.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810RV2",
@@ -17637,7 +17929,9 @@
     "xmlFilenameCompetitiveResults": "R_20170412_1.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810RV2",
@@ -17757,7 +18051,9 @@
     "xmlFilenameCompetitiveResults": "R_20170309_1.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810RV2",
@@ -17877,7 +18173,9 @@
     "xmlFilenameCompetitiveResults": "R_20170209_1.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810RU4",
@@ -17997,7 +18295,9 @@
     "xmlFilenameCompetitiveResults": "R_20170112_1.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810RU4",
@@ -18117,7 +18417,9 @@
     "xmlFilenameCompetitiveResults": "R_20161213_2.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810RU4",
@@ -18237,7 +18539,9 @@
     "xmlFilenameCompetitiveResults": "R_20161110_1.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810RT7",
@@ -18357,7 +18661,9 @@
     "xmlFilenameCompetitiveResults": "R_20161013_1.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810RT7",
@@ -18477,7 +18783,9 @@
     "xmlFilenameCompetitiveResults": "R_20160913_3.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810RT7",
@@ -18597,7 +18905,9 @@
     "xmlFilenameCompetitiveResults": "R_20160811_1.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810RS9",
@@ -18717,7 +19027,9 @@
     "xmlFilenameCompetitiveResults": "R_20160713_1.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810RS9",
@@ -18837,7 +19149,9 @@
     "xmlFilenameCompetitiveResults": "R_20160609_1.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810RS9",
@@ -18957,7 +19271,9 @@
     "xmlFilenameCompetitiveResults": "R_20160512_1.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810RQ3",
@@ -19077,7 +19393,9 @@
     "xmlFilenameCompetitiveResults": "R_20160414_1.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810RQ3",
@@ -19197,7 +19515,9 @@
     "xmlFilenameCompetitiveResults": "R_20160310_1.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810RQ3",
@@ -19317,7 +19637,9 @@
     "xmlFilenameCompetitiveResults": "R_20160211_1.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810RP5",
@@ -19437,7 +19759,9 @@
     "xmlFilenameCompetitiveResults": "R_20160114_1.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810RP5",
@@ -19557,7 +19881,9 @@
     "xmlFilenameCompetitiveResults": "R_20151210_1.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810RP5",
@@ -19677,7 +20003,9 @@
     "xmlFilenameCompetitiveResults": "R_20151112_1.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810RN0",
@@ -19797,7 +20125,9 @@
     "xmlFilenameCompetitiveResults": "R_20151008_1.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810RN0",
@@ -19917,7 +20247,9 @@
     "xmlFilenameCompetitiveResults": "R_20150910_1.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810RN0",
@@ -20037,7 +20369,9 @@
     "xmlFilenameCompetitiveResults": "R_20150813_1.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810RM2",
@@ -20157,7 +20491,9 @@
     "xmlFilenameCompetitiveResults": "R_20150709_1.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810RM2",
@@ -20277,7 +20613,9 @@
     "xmlFilenameCompetitiveResults": "R_20150611_1.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810RM2",
@@ -20397,7 +20735,9 @@
     "xmlFilenameCompetitiveResults": "R_20150514_1.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810RK6",
@@ -20517,7 +20857,9 @@
     "xmlFilenameCompetitiveResults": "R_20150409_1.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810RK6",
@@ -20637,7 +20979,9 @@
     "xmlFilenameCompetitiveResults": "R_20150312_1.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810RK6",
@@ -20757,7 +21101,9 @@
     "xmlFilenameCompetitiveResults": "R_20150212_1.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810RJ9",
@@ -20877,7 +21223,9 @@
     "xmlFilenameCompetitiveResults": "R_20150114_1.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810RJ9",
@@ -20997,7 +21345,9 @@
     "xmlFilenameCompetitiveResults": "R_20141211_1.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810RJ9",
@@ -21117,7 +21467,9 @@
     "xmlFilenameCompetitiveResults": "R_20141113_1.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810RH3",
@@ -21237,7 +21589,9 @@
     "xmlFilenameCompetitiveResults": "R_20141009_1.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810RH3",
@@ -21357,7 +21711,9 @@
     "xmlFilenameCompetitiveResults": "R_20140911_1.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810RH3",
@@ -21477,7 +21833,9 @@
     "xmlFilenameCompetitiveResults": "R_20140814_1.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810RG5",
@@ -21597,7 +21955,9 @@
     "xmlFilenameCompetitiveResults": "R_20140710_1.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810RG5",
@@ -21717,7 +22077,9 @@
     "xmlFilenameCompetitiveResults": "R_20140612_1.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810RG5",
@@ -21837,7 +22199,9 @@
     "xmlFilenameCompetitiveResults": "R_20140508_1.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810RE0",
@@ -21957,7 +22321,9 @@
     "xmlFilenameCompetitiveResults": "R_20140410_1.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810RE0",
@@ -22077,7 +22443,9 @@
     "xmlFilenameCompetitiveResults": "R_20140313_1.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810RE0",
@@ -22197,7 +22565,9 @@
     "xmlFilenameCompetitiveResults": "R_20140213_1.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810RD2",
@@ -22317,7 +22687,9 @@
     "xmlFilenameCompetitiveResults": "R_20140109_1.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810RD2",
@@ -22437,7 +22809,9 @@
     "xmlFilenameCompetitiveResults": "R_20131212_1.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810RD2",
@@ -22557,7 +22931,9 @@
     "xmlFilenameCompetitiveResults": "R_20131114_1.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810RC4",
@@ -22677,7 +23053,9 @@
     "xmlFilenameCompetitiveResults": "R_20131010_1.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810RC4",
@@ -22797,7 +23175,9 @@
     "xmlFilenameCompetitiveResults": "R_20130912_1.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810RC4",
@@ -22917,7 +23297,9 @@
     "xmlFilenameCompetitiveResults": "R_20130808_1.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810RB6",
@@ -23037,7 +23419,9 @@
     "xmlFilenameCompetitiveResults": "R_20130711_1.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810RB6",
@@ -23157,7 +23541,9 @@
     "xmlFilenameCompetitiveResults": "R_20130613_1.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810RB6",
@@ -23277,7 +23663,9 @@
     "xmlFilenameCompetitiveResults": "R_20130509_1.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810QZ4",
@@ -23397,7 +23785,9 @@
     "xmlFilenameCompetitiveResults": "R_20130411_1.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810QZ4",
@@ -23517,7 +23907,9 @@
     "xmlFilenameCompetitiveResults": "R_20130314_2.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810QZ4",
@@ -23637,7 +24029,9 @@
     "xmlFilenameCompetitiveResults": "R_20130214_1.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810QY7",
@@ -23757,7 +24151,9 @@
     "xmlFilenameCompetitiveResults": "R_20130110_1.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810QY7",
@@ -23877,7 +24273,9 @@
     "xmlFilenameCompetitiveResults": "R_20121213_2.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810QY7",
@@ -23997,7 +24395,9 @@
     "xmlFilenameCompetitiveResults": "R_20121108_1.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810QX9",
@@ -24117,7 +24517,9 @@
     "xmlFilenameCompetitiveResults": "R_20121011_1.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810QX9",
@@ -24237,7 +24639,9 @@
     "xmlFilenameCompetitiveResults": "R_20120913_1.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810QX9",
@@ -24357,7 +24761,9 @@
     "xmlFilenameCompetitiveResults": "R_20120809_1.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810QW1",
@@ -24477,7 +24883,9 @@
     "xmlFilenameCompetitiveResults": "R_20120712_1.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810QW1",
@@ -24597,7 +25005,9 @@
     "xmlFilenameCompetitiveResults": "R_20120614_1.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810QW1",
@@ -24717,7 +25127,9 @@
     "xmlFilenameCompetitiveResults": "R_20120510_1.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810QU5",
@@ -24837,7 +25249,9 @@
     "xmlFilenameCompetitiveResults": "R_20120412_1.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810QU5",
@@ -24957,7 +25371,9 @@
     "xmlFilenameCompetitiveResults": "R_20120314_1.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810QU5",
@@ -25077,7 +25493,9 @@
     "xmlFilenameCompetitiveResults": "R_20120209_1.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810QT8",
@@ -25197,7 +25615,9 @@
     "xmlFilenameCompetitiveResults": "R_20120112_1.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810QT8",
@@ -25317,7 +25737,9 @@
     "xmlFilenameCompetitiveResults": "R_20111214_1.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810QT8",
@@ -25437,7 +25859,9 @@
     "xmlFilenameCompetitiveResults": "R_20111110_1.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810QS0",
@@ -25557,7 +25981,9 @@
     "xmlFilenameCompetitiveResults": "R_20111013_1.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810QS0",
@@ -25677,7 +26103,9 @@
     "xmlFilenameCompetitiveResults": "R_20110914_1.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810QS0",
@@ -25797,7 +26225,9 @@
     "xmlFilenameCompetitiveResults": "R_20110811_1.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810QQ4",
@@ -25917,7 +26347,9 @@
     "xmlFilenameCompetitiveResults": "R_20110714_1.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810QQ4",
@@ -26037,7 +26469,9 @@
     "xmlFilenameCompetitiveResults": "R_20110609_1.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810QQ4",
@@ -26157,7 +26591,9 @@
     "xmlFilenameCompetitiveResults": "R_20110512_1.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810QN1",
@@ -26277,7 +26713,9 @@
     "xmlFilenameCompetitiveResults": "R_20110414_1.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810QN1",
@@ -26397,7 +26835,9 @@
     "xmlFilenameCompetitiveResults": "R_20110310_1.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810QN1",
@@ -26517,7 +26957,9 @@
     "xmlFilenameCompetitiveResults": "R_20110210_1.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810QL5",
@@ -26637,7 +27079,9 @@
     "xmlFilenameCompetitiveResults": "R_20110113_1.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810QL5",
@@ -26757,7 +27201,9 @@
     "xmlFilenameCompetitiveResults": "R_20101209_1.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810QL5",
@@ -26877,7 +27323,9 @@
     "xmlFilenameCompetitiveResults": "R_20101110_2.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810QK7",
@@ -26997,7 +27445,9 @@
     "xmlFilenameCompetitiveResults": "R_20101014_1.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810QK7",
@@ -27117,7 +27567,9 @@
     "xmlFilenameCompetitiveResults": "R_20100909_1.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810QK7",
@@ -27237,7 +27689,9 @@
     "xmlFilenameCompetitiveResults": "R_20100812_1.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810QH4",
@@ -27357,7 +27811,9 @@
     "xmlFilenameCompetitiveResults": "R_20100714_2.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810QH4",
@@ -27477,7 +27933,9 @@
     "xmlFilenameCompetitiveResults": "R_20100610_1.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810QH4",
@@ -27597,7 +28055,9 @@
     "xmlFilenameCompetitiveResults": "R_20100513_1.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810QE1",
@@ -27717,7 +28177,9 @@
     "xmlFilenameCompetitiveResults": "R_20100408_1.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810QE1",
@@ -27837,7 +28299,9 @@
     "xmlFilenameCompetitiveResults": "R_20100311_1.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810QE1",
@@ -27957,7 +28421,9 @@
     "xmlFilenameCompetitiveResults": "R_20100211_1.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810QD3",
@@ -28077,7 +28543,9 @@
     "xmlFilenameCompetitiveResults": "R_20100114_1.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810QD3",
@@ -28197,7 +28665,9 @@
     "xmlFilenameCompetitiveResults": "R_20091210_1.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810QD3",
@@ -28317,7 +28787,9 @@
     "xmlFilenameCompetitiveResults": "R_20091112_1.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810QC5",
@@ -28437,7 +28909,9 @@
     "xmlFilenameCompetitiveResults": "R_20091008_2.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810QC5",
@@ -28557,7 +29031,9 @@
     "xmlFilenameCompetitiveResults": "R_20090910_1.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810QC5",
@@ -28677,7 +29153,9 @@
     "xmlFilenameCompetitiveResults": "R_20090813_2.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810QB7",
@@ -28797,7 +29275,9 @@
     "xmlFilenameCompetitiveResults": "R_20090709_1.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810QB7",
@@ -28917,7 +29397,9 @@
     "xmlFilenameCompetitiveResults": "R_20090611_1.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810QB7",
@@ -29037,7 +29519,9 @@
     "xmlFilenameCompetitiveResults": "R_20090507_1.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810QA9",
@@ -29157,7 +29641,9 @@
     "xmlFilenameCompetitiveResults": "R_20090312_1.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810QA9",
@@ -29277,7 +29763,9 @@
     "xmlFilenameCompetitiveResults": "R_20090212_1.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810PX0",
@@ -29397,7 +29885,9 @@
     "xmlFilenameCompetitiveResults": "R_20081113_2.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810PX0",
@@ -29517,7 +30007,9 @@
     "xmlFilenameCompetitiveResults": "R_20080807_1.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810PW2",
@@ -29637,7 +30129,9 @@
     "xmlFilenameCompetitiveResults": "R_20080508_2.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810PW2",
@@ -29757,7 +30251,9 @@
     "xmlFilenameCompetitiveResults": "",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810PU6",
@@ -29877,7 +30373,9 @@
     "xmlFilenameCompetitiveResults": "",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "912810PU6",
@@ -29997,6 +30495,8 @@
     "xmlFilenameCompetitiveResults": "",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   }
 ]

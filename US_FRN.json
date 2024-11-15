@@ -117,7 +117,9 @@
     "xmlFilenameCompetitiveResults": "R_20241029_3.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "91282CLA7",
@@ -237,7 +239,9 @@
     "xmlFilenameCompetitiveResults": "R_20240925_2.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "91282CLA7",
@@ -357,7 +361,9 @@
     "xmlFilenameCompetitiveResults": "R_20240828_1.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "91282CLA7",
@@ -477,7 +483,9 @@
     "xmlFilenameCompetitiveResults": "R_20240724_1.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "91282CKM2",
@@ -597,7 +605,9 @@
     "xmlFilenameCompetitiveResults": "R_20240626_1.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "91282CKM2",
@@ -717,7 +727,9 @@
     "xmlFilenameCompetitiveResults": "R_20240529_2.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "91282CKM2",
@@ -837,7 +849,9 @@
     "xmlFilenameCompetitiveResults": "R_20240424_1.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "91282CJU6",
@@ -957,7 +971,9 @@
     "xmlFilenameCompetitiveResults": "R_20240327_1.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "91282CJU6",
@@ -1077,7 +1093,9 @@
     "xmlFilenameCompetitiveResults": "R_20240221_2.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "91282CJU6",
@@ -1197,7 +1215,9 @@
     "xmlFilenameCompetitiveResults": "R_20240124_2.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "91282CJD4",
@@ -1317,7 +1337,9 @@
     "xmlFilenameCompetitiveResults": "R_20231227_3.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "91282CJD4",
@@ -1437,7 +1459,9 @@
     "xmlFilenameCompetitiveResults": "R_20231121_2.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "91282CJD4",
@@ -1557,7 +1581,9 @@
     "xmlFilenameCompetitiveResults": "R_20231025_2.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "91282CHS3",
@@ -1677,7 +1703,9 @@
     "xmlFilenameCompetitiveResults": "R_20230927_2.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "91282CHS3",
@@ -1797,7 +1825,9 @@
     "xmlFilenameCompetitiveResults": "R_20230823_1.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "91282CHS3",
@@ -1917,7 +1947,9 @@
     "xmlFilenameCompetitiveResults": "R_20230726_2.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "91282CGY1",
@@ -2037,7 +2069,9 @@
     "xmlFilenameCompetitiveResults": "R_20230628_1.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "91282CGY1",
@@ -2157,7 +2191,9 @@
     "xmlFilenameCompetitiveResults": "R_20230524_2.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "91282CGY1",
@@ -2277,7 +2313,9 @@
     "xmlFilenameCompetitiveResults": "R_20230426_2.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "91282CGF2",
@@ -2397,7 +2435,9 @@
     "xmlFilenameCompetitiveResults": "R_20230329_2.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "91282CGF2",
@@ -2517,7 +2557,9 @@
     "xmlFilenameCompetitiveResults": "R_20230222_2.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   },
   {
     "cusip": "91282CGF2",
@@ -2637,6 +2679,8 @@
     "xmlFilenameCompetitiveResults": "R_20230125_1.xml",
     "xmlFilenameSpecialAnnouncement": "",
     "tintCusip1": "",
-    "tintCusip2": ""
+    "tintCusip2": "",
+    "tintCusip1DueDate": "",
+    "tintCusip2DueDate": ""
   }
 ]
