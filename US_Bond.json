@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-25T23:11:24.907+00:00",
+  "timestamp": "2026-05-25T23:47:57.328+00:00",
   "status": 500,
   "error": "Internal Server Error",
   "path": "/TA_WS/securities/auctioned"
